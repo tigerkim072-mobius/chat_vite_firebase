@@ -27,3 +27,24 @@ firebase
 
 git log --oneline --all --graph
 vscode extensions > git graph 추가
+
+
+# 프로덕션 빌드
+npm run build
+
+# 빌드 결과 미리보기
+npm run preview
+
+# 빌드 결과물 확인
+ls dist
+
+# index.html assets/
+
+https://www.youtube.com/playlist?list=PLTb3qGCzYjS0Qm0PDKtU9v3m5F1iO_ZFf
+
+
+-----------------------------------
+npm install firebase
+npm audit fix --force
+
+
